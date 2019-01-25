@@ -1,0 +1,3 @@
+data_path_pre="/the/top/path/to/source/code"
+dest_path_pre="/the/top/path/to/dest"
+ignore=".git|/demo/"

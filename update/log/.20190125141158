@@ -1,0 +1,9 @@
++ [update.sh:232  2019-01-25 14:11:58] '[' x == xupdate ']'
++ [update.sh:238  2019-01-25 14:11:58] '[' x == xrollback ']'
++ [update.sh:243  2019-01-25 14:11:58] usage
++ [update.sh:20 usage 2019-01-25 14:11:58] echo Usage:
++ [update.sh:21 usage 2019-01-25 14:11:58] echo -e '\tupdate:'
++ [update.sh:22 usage 2019-01-25 14:11:58] echo -e '\t\tupdate.sh -a|--action update -s|--source [source_code_path] -d|--dest [dest_path] -l|--list [to_update_file_list] -h|--help'
++ [update.sh:23 usage 2019-01-25 14:11:58] echo -e '\trollback:'
++ [update.sh:24 usage 2019-01-25 14:11:58] echo -e '\t\tupdate.sh -a|--action rollback -t|--timestamp [timestamp] -d|--dest [dest_path] -l|--list [to_update_file_list] -h|--help'
++ [update.sh:25 usage 2019-01-25 14:11:58] exit
